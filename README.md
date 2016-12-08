@@ -1,0 +1,2 @@
+# Documento-de-Termos-e-Condicoes
+Este documento contém uma lista de termos e condições que devem ser aceitos por cada pessoa que participe voluntariamente da pesquisa de Eduardo Furtado Sá Corrêa, intitulada “Games e o desenvolvimento do Pensamento Computacional”, apresentada como requisito parcial para conclusão do Bacharelado em Ciência da Computação pela Universidade de Brasília(UnB), orientada pelo Prof. Dr. Edsion Ishikawa e pelo Prof. Dr. Francisco Botelho, disponível em http://pinkfreudbrasil.com.br/moodle/
